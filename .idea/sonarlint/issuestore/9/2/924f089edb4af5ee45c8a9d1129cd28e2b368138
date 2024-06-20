@@ -1,0 +1,14 @@
+
+
+java:S4973>"<Strings and Boxed types should be compared using "equals()".(ü¬ÆÒ8ïÔš®ƒ2J$ae1f2da7-03be-40b6-9941-24d48d3c16b5
+w
+java:S3740"/Provide the parametrized type for this generic.(†ÆîŽýÿÿÿÿ8ñÔš®ƒ2J$a118aa7f-1464-43f4-ade0-4f5b5bca6394
+w
+java:S3740I"/Provide the parametrized type for this generic.(‹¾ñùÿÿÿÿ8ñÔš®ƒ2J$14c024b5-42b3-4b75-9098-5e52fe62ace6
+r
+java:S3740d"/Provide the parametrized type for this generic.(à­¿–8ñÔš®ƒ2J$bae0c502-46d1-4f0a-bc55-1231f2c7f077
+Ž
+java:S1192L"FDefine a constant instead of duplicating this literal "black" 4 times.(Ç‡ÿÆùÿÿÿÿ8òÔš®ƒ2J$d7c89254-62f6-4584-afe2-6508e65d17b1
+Ž
+java:S1192&"KDefine a constant instead of duplicating this literal "ÐšÐµÑ„Ñ–Ñ€" 3 times.(ÆØ¹›8òÔš®ƒ2J$7afa0e20-0069-4518-964c-d1c986c2fa5b
+r	java:S106"+Replace this use of System.out by a logger.(“×·ôþÿÿÿÿ8óÔš®ƒ2J$0f34a973-54c8-429f-bdbd-8bdee8d044e9
